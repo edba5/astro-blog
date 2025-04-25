@@ -15,9 +15,9 @@ Hola 👋,
 
 AstroPaper is a highly customizable Astro blog theme. With AstroPaper, you can customize everything according to your personal taste. This article will explain how you can make some customizations easily in the config file.
 
-## Table of contents
+![](/astropaper-og.jpg)
 
-<p style="text-align: center"><img src="/aerea-antes.jpg" alt="Vipassana"></p>
+## Table of contents
 
 ## Configuring SITE
 
